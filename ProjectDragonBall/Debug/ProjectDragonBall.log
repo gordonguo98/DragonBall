@@ -1,0 +1,5 @@
+﻿  dragonball.cpp
+c:\users\郭晓凡\source\repos\projectdragonball\projectdragonball\dragonball.cpp(2681): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\郭晓凡\source\repos\projectdragonball\projectdragonball\dragonball.cpp(421): warning C4715: “touchmap_gw_diff”: 不是所有的控件路径都返回值
+c:\users\郭晓凡\source\repos\projectdragonball\projectdragonball\dragonball.cpp(388): warning C4715: “touchmap_gw”: 不是所有的控件路径都返回值
+  ProjectDragonBall.vcxproj -> C:\Users\郭晓凡\source\repos\ProjectDragonBall\Debug\ProjectDragonBall.exe
